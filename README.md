@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong affinity 
 
 ### 🌟 Connect With Me:
 
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/matthieu-gell%C3%A9-38a190150/)
+- **LinkedIn:** [in/matthieu-gellé](https://www.linkedin.com/in/matthieu-gell%C3%A9-38a190150/)
 
 ### 🛠️ Projects I'm Proud Of:
 
