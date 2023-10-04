@@ -18,10 +18,6 @@ Welcome to my GitHub profile. I'm a passionate developer with a strong affinity 
 
 - **LinkedIn:** [in/matthieu-gellé](https://www.linkedin.com/in/matthieu-gell%C3%A9-38a190150/)
 
-### 🛠️ Projects I'm Proud Of:
-
-- [Directus Docker Smart Snapshot](https://github.com/matthieu-gll/directus-docker-smart-snapshot): Work with directus in team with docker and smart versionned snapshot system.
-
 ### 📫 Let's Chat:
 
 I'm always excited to connect with fellow developers, share ideas, and collaborate on exciting projects. Feel free to reach out to me via Twitter or LinkedIn. Let's learn and build awesome things together!
